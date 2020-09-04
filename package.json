@@ -1,0 +1,29 @@
+{
+  "name": "easyeco",
+  "version": "0.0.0",
+  "description": "A Discord bot provided by ThijmenGThN#2684, constructed for BumbaclartBarry#8305.",
+  "main": "app.js",
+  "scripts": {
+    "start": "npm i && node app.js"
+  },
+  "author": "ThijmenGThN#2684 - ThijmenHeuvelink.GThN@pm.me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThijmenGThN/cli-barry-easyeco.git"
+  },
+  "keywords": [
+    "Node",
+    "Discord.JS",
+    "JavaScript"
+  ],
+  "bugs": {
+    "url": "https://github.com/ThijmenGThN/cli-barry-easyeco/issues"
+  },
+  "homepage": "https://github.com/ThijmenGThN/cli-barry-easyeco#readme"
+}
