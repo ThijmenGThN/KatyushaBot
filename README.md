@@ -1,4 +1,4 @@
-# <img src="" width="50"> KatyushaBot
+# <img src="https://i.imgur.com/U44gCAo.png" width="50"> KatyushaBot
 A community based application using NodeJS which has been build specifically for Discord and its API, this project is not public and requires a password to unarchive the .zip file.
 
 # How to use
